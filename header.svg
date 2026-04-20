@@ -1,8 +1,6 @@
-
-</svg>
 <svg xmlns="http://www.w3.org/2000/svg" width="740" height="80" viewBox="0 0 740 80">
   <rect width="740" height="80" fill="#0d1117"/>
-  <text font-family="'Courier New', monospace" font-size="16" fill="#FF4444" xml:space="preserve">
+  <text font-family="'Courier New', monospace" font-size="14" fill="#FF4444" xml:space="preserve">
     <tspan x="30" y="24">╔══════════════════════════════════════════════════════════════════╗</tspan>
     <tspan x="30" y="46">║              khalil@esp-dakar ~ kali-linux ~ zsh                 ║</tspan>
     <tspan x="30" y="68">╚══════════════════════════════════════════════════════════════════╝</tspan>
