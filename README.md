@@ -1,64 +1,97 @@
 <!-- Profil GitHub - Khalil -->
 <div align="center">
+
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                    khalil@github ~ zsh                           ║
+║              khalil@esp-dakar ~ kali-linux ~ zsh                 ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
+
 </div>
-<img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00D4A0&background=0D111700&multiline=true&width=300&height=130&lines=OS+.......+Kali+Linux;Kernel+...+DUT+%E2%80%94+ESP+Dakar;IDE+......+VS+Code%2C+Nano;Status+..+Learning+%26+Building" alt="Typing SVG" />
+
+<img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=1000&color=00FF41&background=0D110000&multiline=true&width=300&height=130&lines=role+....+security_researcher;os+......+Kali+Linux;kernel+..+DUT+%E2%80%94+ESP+Dakar;ide+.....+VS+Code+%2F+Nano;status+..+%E2%96%B6+learning+%26+building" alt="Typing SVG" />
+
 ```bash
-khalil @github ─────────────────────────────────────────
-OS:       ..................  Kali Linux (Debian-based)
-Kernel:   ..................  DUT Génie Informatique
-Host:     ..................  ESP Dakar, Sénégal
-IDE:      ..................  VS Code
-Languages.Programming:  C, PHP, JavaScript, Python
-Languages.Computer:     HTML, CSS, SQL, Bash
-Languages.Real:         Français, Wolof, English
-Hobbies.Software:   Web Dev, Cybersécurité, Réseau
-Hobbies.Tools:      Nmap, Metasploit, Wireshark, Kali
-Hobbies.Hardware:   Network Simulation, Linux Hardening
+┌──[khalil@esp-dakar]─[~]
+└─$ cat whoami.txt
+
+  os        ···  Kali Linux (Debian-based)
+  kernel    ···  DUT Génie Informatique
+  host      ···  ESP Dakar, Sénégal 🇸🇳
+  ide       ···  VS Code / Nano
+  langs     ···  C · PHP · JavaScript · Python
+  markup    ···  HTML · CSS · SQL · Bash
+  spoken    ···  Français · Wolof · English
+  offense   ···  Nmap · Metasploit · Wireshark · Kali
+  defense   ···  Network Simulation · Linux Hardening
 ```
+
 <br clear="right"/>
+
 ---
-## 🛠️ Stack & Outils
+
+## `// stack & outils`
+
 <div align="center">
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=flat-square&logo=gnubash&logoColor=00FF41)
+![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=flat-square&logo=php&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=e3b341)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=f78166)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=58a6ff)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=e3b341)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1a1a2e?style=flat-square&logo=kalilinux&logoColor=ff4444)
+![Metasploit](https://img.shields.io/badge/Metasploit-1a1a2e?style=flat-square&logo=metasploit&logoColor=ff4444)
+![Wireshark](https://img.shields.io/badge/Wireshark-1a1a2e?style=flat-square&logo=wireshark&logoColor=58a6ff)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=58a6ff)
+
 </div>
-## 🔥 Projets phares
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🎓 **LibMANAGER** | Système de gestion de bibliothèque (Merise/UML) | Analyse SI |
-| 🌐 **eFootball Market** | Plateforme web de marché eFootball | HTML, CSS, JS |
-| 📰 **La Tribune** | Site d'actualités avec CRUD sécurisé | PHP, MySQL |
-| 🔐 **CyberSec Labs** | Pentesting: Nmap, Metasploit, Wireshark | Kali Linux |
-| 🖥️ **Student Manager** | Application de gestion étudiante | C |
-| 🌍 **Portfolio** | Portfolio personnel dark mode | HTML, CSS, JS |
+
 ---
-## 🎯 Objectifs 2025
+
+## `// projets`
+
+| ID | Projet | Description | Stack |
+|:--:|--------|-------------|-------|
+| `[01]` | 🔐 **CyberSec Labs** | Pentesting — Nmap, Metasploit, Wireshark | `Kali Linux` |
+| `[02]` | 📰 **La Tribune** | Site d'actualités avec CRUD sécurisé | `PHP` `MySQL` |
+| `[03]` | 🌐 **eFootball Market** | Plateforme web de marché eFootball | `JS` `CSS` |
+| `[04]` | 🖥️ **Student Manager** | Application de gestion étudiante | `C` |
+| `[05]` | 🎓 **LibMANAGER** | Système de gestion de bibliothèque | `Merise/UML` |
+| `[06]` | 🌍 **Portfolio** | Portfolio personnel dark mode | `HTML` `CSS` `JS` |
+
+---
+
+## `// objectifs 2025`
+
 ```python
-goals = {
-    "cybersecurity": ["OSCP prep", "CTF challenges", "Bug bounty"],
-    "web":           ["React", "Node.js", "API REST"],
-    "cloud":         ["AWS basics", "Docker", "CI/CD"],
-    "network":       ["CCNA", "Packet Tracer advanced"],
+# current_missions.py
+
+targets = {
+    "cybersec" : ["OSCP prep", "CTF challenges", "Bug bounty"],
+    "web"      : ["React", "Node.js", "REST API"],
+    "cloud"    : ["AWS basics", "Docker", "CI/CD"],
+    "network"  : ["CCNA", "Packet Tracer advanced"],
 }
+
+for domain, missions in targets.items():
+    print(f"[▶] {domain}: {', '.join(missions)}")
 ```
+
 ---
+
 <div align="center">
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TON_USERNAME.TON_USERNAME&color=00d4a0)
-```
-khalil@github:~$ echo "Always learning, always building."
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TON_USERNAME.TON_USERNAME&color=00ff41&style=flat-square)
+
+```bash
+┌──[khalil@esp-dakar]─[~]
+└─$ echo "Always learning, always building."
 Always learning, always building.
-khalil@github:~$ █
+┌──[khalil@esp-dakar]─[~]
+└─$ █
 ```
-</div>   je veux changer
+
+</div>
