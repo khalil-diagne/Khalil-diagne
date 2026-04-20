@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=1000&color=00FF41&background=0D110000&multiline=true&width=300&height=130&lines=role+....+security_researcher;os+......+Kali+Linux;kernel+..+DUT+%E2%80%94+ESP+Dakar;ide+.....+VS+Code+%2F+Nano;status+..+%E2%96%B6+learning+%26+building" alt="Typing SVG" />
+<img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=1000&color=00FF41&background=0D110000&multiline=true&width=300&height=150&lines=nom+.....++Khalil;role+....++pentesteur+junior;base+....++ESP+Dakar%2C+S%C3%A9n%C3%A9gal;os+......++Kali+Linux;devise+..++hack+pour+apprendre" alt="Typing SVG" />
 
 <img src="terminal.svg" alt="whoami terminal" width="580" />
 
@@ -71,18 +71,7 @@ for domain, missions in targets.items():
     print(f"[▶] {domain}: {', '.join(missions)}")
 ```
 
----
 
-## `// github stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=merko&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=ff4444&border_color=21262d" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=merko&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=21262d" />
-
-</div>
-
----
 
 <div align="center">
 
