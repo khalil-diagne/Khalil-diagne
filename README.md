@@ -1,37 +1,33 @@
 <div align="center">
 
 ```
- ██╗  ██╗██╗  ██╗ █████╗ ██╗     ██╗██╗     
- ██║ ██╔╝██║  ██║██╔══██╗██║     ██║██║     
- █████╔╝ ███████║███████║██║     ██║██║     
- ██╔═██╗ ██╔══██║██╔══██║██║     ██║██║     
- ██║  ██╗██║  ██║██║  ██║███████╗██║███████╗
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝
+╔══════════════════════════════════════════════════════════════════╗
+║              khalil@esp-dakar ~ kali-linux ~ zsh                 ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=500&height=110&lines=user+......+khalil%40esp-dakar;role+......+security_researcher+%2B+dev;os+........+kali+linux+%7C+debian-based;status+....+%E2%96%B6+always+learning%2C+always+building" alt="Typing SVG" />
 
 </div>
 
----
+<img align="right" width="320" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=1000&color=00FF41&background=0D110000&multiline=true&width=320&height=150&lines=role+....+security_researcher;os+......+Kali+Linux;kernel+..+DUT+%E2%80%94+ESP+Dakar;ide+.....+VS+Code+%2F+Nano;status+..+%E2%96%B6+learning+%26+building" alt="Typing SVG" />
 
 ```bash
 ┌──[khalil@esp-dakar]─[~]
-└─$ whoami
+└─$ cat whoami.txt
+
+  user      ···  khalil
+  role      ···  security researcher + web dev
+  os        ···  Kali Linux (Debian-based)
+  kernel    ···  DUT Génie Informatique
+  host      ···  ESP Dakar, Sénégal 🇸🇳
+  ide       ···  VS Code / Nano
+  langs     ···  C · PHP · JavaScript · Python
+  markup    ···  HTML · CSS · SQL · Bash
+  spoken    ···  Français · Wolof · English
+  offense   ···  Nmap · Metasploit · Wireshark
+  defense   ···  Linux Hardening · Net Simulation
 ```
 
-```
-user      ···  khalil
-role      ···  security researcher + web developer
-kernel    ···  DUT Génie Informatique
-host      ···  ESP Dakar, Sénégal 🇸🇳
-ide       ···  VS Code / Nano
-langs     ···  C · PHP · JavaScript · Python · Bash
-markup    ···  HTML · CSS · SQL
-spoken    ···  Français · Wolof · English
-offense   ···  Nmap · Metasploit · Wireshark · Burp Suite
-defense   ···  Linux Hardening · Network Simulation
-```
+<br clear="right"/>
 
 ---
 
