@@ -1,4 +1,5 @@
 <!-- Profil GitHub - Khalil -->
+
 <div align="center">
 
 ```
@@ -9,74 +10,11 @@
 
 </div>
 
+---
+
 <img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=1000&color=00FF41&background=0D110000&multiline=true&width=300&height=130&lines=role+....+security_researcher;os+......+Kali+Linux;kernel+..+DUT+%E2%80%94+ESP+Dakar;ide+.....+VS+Code+%2F+Nano;status+..+%E2%96%B6+learning+%26+building" alt="Typing SVG" />
 
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310">
-  <rect width="600" height="310" rx="8" fill="#0d1117"/>
-  <rect width="600" height="310" rx="8" fill="none" stroke="#21262d" stroke-width="1"/>
-
-  <!-- Window dots -->
-  <circle cx="20" cy="18" r="5" fill="#ff5f57"/>
-  <circle cx="36" cy="18" r="5" fill="#febc2e"/>
-  <circle cx="52" cy="18" r="5" fill="#28c840"/>
-
-  <!-- Title bar -->
-  <text x="300" y="22" font-family="monospace" font-size="11" fill="#6e7681" text-anchor="middle">khalil@esp-dakar — bash</text>
-  <line x1="0" y1="32" x2="600" y2="32" stroke="#21262d" stroke-width="0.5"/>
-
-  <!-- Prompt line 1 -->
-  <text x="16" y="58" font-family="monospace" font-size="13">
-    <tspan fill="#00ff41">┌──[</tspan><tspan fill="#ff4444">khalil</tspan><tspan fill="#00ff41">@</tspan><tspan fill="#58a6ff">esp-dakar</tspan><tspan fill="#00ff41">]─[~]</tspan>
-  </text>
-
-  <!-- Prompt line 2 + command -->
-  <text x="16" y="78" font-family="monospace" font-size="13">
-    <tspan fill="#00ff41">└─$ </tspan><tspan fill="#e3b341">cat </tspan><tspan fill="#c9d1d9">whoami.txt</tspan>
-  </text>
-
-  <!-- Rows -->
-  <!-- os -->
-  <text x="32" y="108" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">os        ···  </tspan><tspan fill="#00ff41">Kali Linux</tspan><tspan fill="#6e7681"> (Debian-based)</tspan>
-  </text>
-  <!-- kernel -->
-  <text x="32" y="128" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">kernel    ···  </tspan><tspan fill="#58a6ff">DUT Génie Informatique</tspan>
-  </text>
-  <!-- host -->
-  <text x="32" y="148" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">host      ···  </tspan><tspan fill="#bc8cff">ESP Dakar, Sénégal 🇸🇳</tspan>
-  </text>
-  <!-- ide -->
-  <text x="32" y="168" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">ide       ···  </tspan><tspan fill="#e3b341">VS Code / Nano</tspan>
-  </text>
-  <!-- langs -->
-  <text x="32" y="188" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">langs     ···  </tspan><tspan fill="#00ff41">C</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#00ff41">PHP</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#00ff41">JavaScript</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#00ff41">Python</tspan>
-  </text>
-  <!-- markup -->
-  <text x="32" y="208" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">markup    ···  </tspan><tspan fill="#58a6ff">HTML</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#58a6ff">CSS</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#58a6ff">SQL</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#58a6ff">Bash</tspan>
-  </text>
-  <!-- spoken -->
-  <text x="32" y="228" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">spoken    ···  </tspan><tspan fill="#c9d1d9">Français · Wolof · English</tspan>
-  </text>
-  <!-- offense -->
-  <text x="32" y="248" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">offense   ···  </tspan><tspan fill="#ff4444">Nmap</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#ff4444">Metasploit</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#ff4444">Wireshark</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#ff4444">Kali</tspan>
-  </text>
-  <!-- defense -->
-  <text x="32" y="268" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">defense   ···  </tspan><tspan fill="#f78166">Network Simulation</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#f78166">Linux Hardening</tspan>
-  </text>
-
-  <!-- Cursor -->
-  <text x="16" y="292" font-family="monospace" font-size="13">
-    <tspan fill="#00ff41">└─$ </tspan><tspan fill="#00ff41">█</tspan>
-  </text>
-</svg>
+<img src="terminal.svg" alt="whoami terminal" width="580" />
 
 <br clear="right"/>
 
@@ -98,6 +36,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-1a1a2e?style=flat-square&logo=metasploit&logoColor=ff4444)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1a1a2e?style=flat-square&logo=wireshark&logoColor=58a6ff)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=58a6ff)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=f78166)
 
 </div>
 
@@ -131,6 +70,17 @@ targets = {
 for domain, missions in targets.items():
     print(f"[▶] {domain}: {', '.join(missions)}")
 ```
+
+---
+
+## `// github stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=merko&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=ff4444&border_color=21262d" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=merko&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=21262d" />
+
+</div>
 
 ---
 
