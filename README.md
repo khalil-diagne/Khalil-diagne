@@ -49,19 +49,6 @@ Hobbies.Hardware:   Network Simulation, Linux Hardening
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=github_dark&hide_border=true&icon_color=00d4a0&title_color=00d4a0&text_color=e6edf3&bg_color=0d1117" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00d4a0&text_color=e6edf3&bg_color=0d1117" />
-
-</div>
-
----
 
 ## 🔥 Projets phares
 
