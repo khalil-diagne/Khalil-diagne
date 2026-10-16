@@ -1,66 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310">
-  <rect width="600" height="310" rx="8" fill="#0d1117"/>
-  <rect width="600" height="310" rx="8" fill="none" stroke="#21262d" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 700 300" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0MTNlYTgwNC04OTViLTQ5ZDgtYmE2NC03MGRiYjJhYzYzOWMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMY38VUW56VHuS4dBlnYOmMAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyZjgzZDM5Ny05NDA0LTQyODYtOWZjYy01MTUxYmYzMTk0NGNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoonu4F64TJlZHuCE/fd1zCQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggfUIM33khC/R138j5WS6Itsxyl1N0EIER5kpItAjBOEukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaImqiB/TUkILjAcJmyTQMboAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAYL9jpa2ceoO2Ou19k7LyhTEXU/kRKXjZ01ERhE2erkmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQxM2VhODA0LTg5NWItNDlkOC1iYTY0LTcwZGJiMmFjNjM5Yy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjMxMmUxYWU2LTM2M2ItNDJjMC04NDJjLTRkZTJmZTRlYjMwMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB9QgzfeSEL9HXfyPlZLoi2zHKXU3QQgRHmSki0CME4S6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggo9k5+2crxSauw+Ls812aGrEhu4WnBWXMkKZ6Z2Qka7KiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggaKeZsiieHvMa+VzbGp5SExBDHNJgILXI6FaCG7Y8ggl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDbATpcDKaGZ/a6E+UO7tK7R9WBjq2R5mTDZttOiCtRgrhoPMcvMKya4s93XaQRFbD81xl292/Icg+3zE+c+a/o=</c2pa:manifest></metadata>
+  <defs>
+    <style>
+      text { font-family: 'Courier New', Consolas, 'Liberation Mono', monospace; font-size: 15px; }
+      .p { fill: #00ff41; }
+      .cmd { fill: #e6ffe9; }
+      .out { fill: #58a6ff; }
+      .dim { fill: #00ff41; fill-opacity: 0.55; }
+      .ln { opacity: 0; animation: show 0.01s forwards; }
+      @keyframes show { to { opacity: 1; } }
+      .l1 { animation-delay: 0.4s; }
+      .l2 { animation-delay: 1.0s; }
+      .l3 { animation-delay: 1.6s; }
+      .l4 { animation-delay: 2.2s; }
+      .l5 { animation-delay: 2.8s; }
+      .l6 { animation-delay: 3.4s; }
+      .l7 { animation-delay: 4.0s; }
+      .l8 { animation-delay: 4.6s; }
+      .l9 { animation-delay: 5.2s; }
+      .cur { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) {
+        .ln { opacity: 1; animation: none; }
+        .cur { animation: none; }
+      }
+    </style>
+  </defs>
 
-  <!-- Window dots -->
-  <circle cx="20" cy="18" r="5" fill="#ff5f57"/>
-  <circle cx="36" cy="18" r="5" fill="#febc2e"/>
-  <circle cx="52" cy="18" r="5" fill="#28c840"/>
+  <rect width="700" height="300" rx="8" fill="#050805" stroke="#00ff41" stroke-opacity="0.6"/>
+  <path d="M0 8a8 8 0 0 1 8-8h684a8 8 0 0 1 8 8v20H0z" fill="#0b120b"/>
+  <line x1="0" y1="28" x2="700" y2="28" stroke="#00ff41" stroke-opacity="0.35"/>
+  <circle cx="18" cy="14" r="5" fill="#ff5f56"/>
+  <circle cx="38" cy="14" r="5" fill="#ffbd2e"/>
+  <circle cx="58" cy="14" r="5" fill="#27c93f"/>
+  <text x="350" y="19" text-anchor="middle" font-size="12" class="dim">khalil@esp-dakar: ~</text>
 
-  <!-- Title bar -->
-  <text x="300" y="22" font-family="monospace" font-size="11" fill="#6e7681" text-anchor="middle">khalil@esp-dakar — bash</text>
-  <line x1="0" y1="32" x2="600" y2="32" stroke="#21262d" stroke-width="0.5"/>
+  <g class="ln l1"><text x="24" y="60"><tspan class="p">khalil@esp-dakar</tspan><tspan class="dim">:~$ </tspan><tspan class="cmd">whoami</tspan></text></g>
+  <g class="ln l2"><text x="24" y="82" class="out">Khalil (Ibrahima Diagne)</text></g>
 
-  <!-- Prompt line 1 -->
-  <text x="16" y="58" font-family="monospace" font-size="13">
-    <tspan fill="#00ff41">┌──[</tspan><tspan fill="#ff4444">khalil</tspan><tspan fill="#00ff41">@</tspan><tspan fill="#58a6ff">esp-dakar</tspan><tspan fill="#00ff41">]─[~]</tspan>
-  </text>
+  <g class="ln l3"><text x="24" y="114"><tspan class="p">khalil@esp-dakar</tspan><tspan class="dim">:~$ </tspan><tspan class="cmd">cat role.txt</tspan></text></g>
+  <g class="ln l4"><text x="24" y="136" class="out">pentesteur junior | #1 Sénégal sur HackerDNA</text></g>
 
-  <!-- Prompt line 2 + command -->
-  <text x="16" y="78" font-family="monospace" font-size="13">
-    <tspan fill="#00ff41">└─$ </tspan><tspan fill="#e3b341">cat </tspan><tspan fill="#c9d1d9">whoami.txt</tspan>
-  </text>
+  <g class="ln l5"><text x="24" y="168"><tspan class="p">khalil@esp-dakar</tspan><tspan class="dim">:~$ </tspan><tspan class="cmd">cat status.txt</tspan></text></g>
+  <g class="ln l6"><text x="24" y="190" class="out">Licence 3 @ ESP Dakar | cherche stage en cybersécurité</text></g>
 
-  <!-- Rows -->
-  <!-- os -->
-  <text x="32" y="108" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">os        ···  </tspan><tspan fill="#00ff41">Kali Linux</tspan><tspan fill="#6e7681"> (Debian-based)</tspan>
-  </text>
-  <!-- kernel -->
-  <text x="32" y="128" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">kernel    ···  </tspan><tspan fill="#58a6ff">DUT Génie Informatique</tspan>
-  </text>
-  <!-- host -->
-  <text x="32" y="148" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">host      ···  </tspan><tspan fill="#bc8cff">ESP Dakar, Sénégal 🇸🇳</tspan>
-  </text>
-  <!-- ide -->
-  <text x="32" y="168" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">ide       ···  </tspan><tspan fill="#e3b341">VS Code / Nano</tspan>
-  </text>
-  <!-- langs -->
-  <text x="32" y="188" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">langs     ···  </tspan><tspan fill="#00ff41">C</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#00ff41">PHP</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#00ff41">JavaScript</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#00ff41">Python</tspan>
-  </text>
-  <!-- markup -->
-  <text x="32" y="208" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">markup    ···  </tspan><tspan fill="#58a6ff">HTML</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#58a6ff">CSS</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#58a6ff">SQL</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#58a6ff">Bash</tspan>
-  </text>
-  <!-- spoken -->
-  <text x="32" y="228" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">spoken    ···  </tspan><tspan fill="#c9d1d9">Français · Wolof · English</tspan>
-  </text>
-  <!-- offense -->
-  <text x="32" y="248" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">offense   ···  </tspan><tspan fill="#ff4444">Nmap</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#ff4444">Metasploit</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#ff4444">Wireshark</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#ff4444">Kali</tspan>
-  </text>
-  <!-- defense -->
-  <text x="32" y="268" font-family="monospace" font-size="12">
-    <tspan fill="#6e7681">defense   ···  </tspan><tspan fill="#f78166">Network Simulation</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#f78166">Linux Hardening</tspan>
-  </text>
+  <g class="ln l7"><text x="24" y="222"><tspan class="p">khalil@esp-dakar</tspan><tspan class="dim">:~$ </tspan><tspan class="cmd">echo $MOTTO</tspan></text></g>
+  <g class="ln l8"><text x="24" y="244" class="out">hack pour apprendre</text></g>
 
-  <!-- Cursor -->
-  <text x="16" y="292" font-family="monospace" font-size="13">
-    <tspan fill="#00ff41">└─$ </tspan><tspan fill="#00ff41">█</tspan>
-  </text>
+  <g class="ln l9"><text x="24" y="276"><tspan class="p">khalil@esp-dakar</tspan><tspan class="dim">:~$ </tspan></text>
+    <rect class="cur" x="204" y="263" width="9" height="16" fill="#00ff41"/>
+  </g>
 </svg>
